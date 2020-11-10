@@ -1,0 +1,13 @@
+{
+  "name": "test-example",
+  "version": "1.0.0",
+  "description": "Example of Jest test",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^26.4.2"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
